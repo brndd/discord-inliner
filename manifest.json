@@ -1,7 +1,7 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Discord Inliner",
-    "version": "0.1.0",
+    "version": "0.2",
   
     "description": "Displays videos and other content in the browser instead of showing a download prompt on Discord CDN servers by modifying the Content-Disposition header.",
 
