@@ -15,3 +15,5 @@ You do use Firefox, right?
 ## Chrome support
 
 Google no longer supports the `webRequest` API, because it's the API that adblockers use to block ads and Google hates adblockers. This addon therefore will not work on Chrome. I seriously hope you don't use Chrome, lmao!!
+
+For Chrome you may want to try the [Undisposition extension](https://chromewebstore.google.com/detail/undisposition-racle-fork/bbppejejjfancffmhncgkhjdaikdgagc) which can achieve much the same thing.
